@@ -10,7 +10,8 @@ Which employees leave for reasons a company could have prevented, and where shou
 - **Production drives it.** A 30% preventable turnover rate, and 54 of the 62 preventable exits.
 - **Three managers stand out.** Their teams have 41–53% preventable turnover, against 23% overall.
 - **Recruitment source matters.** Google Search, Diversity Job Fair, and CareerBuilder hires leave at 33–50%, while Employee Referral and LinkedIn hires leave at 4–15%.
-- **Exits happen early.** Most preventable exits come in the first two years.
+- **Most leavers are established employees.** 34 of the 62 preventable exits came after 3+ years, most often for another position or unhappiness.
+- **Engagement scores didn't predict who left.** Leavers and stayers scored almost the same (4.09 vs. 4.12).
 
 ## Files
 
